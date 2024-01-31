@@ -12,5 +12,10 @@
   "dependencies": {
     "@astrojs/rss": "^4.0.4",
     "astro": "^4.2.6"
+  },
+  "devDependencies": {
+    "@iconify-json/tabler": "^1.1.104",
+    "@unocss/reset": "^0.58.4",
+    "unocss": "^0.58.4"
   }
 }
