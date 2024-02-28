@@ -45,3 +45,13 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+
+---
+
+How I built this blog?
+
+- https://docs.astro.build/en/tutorial/0-introduction/
+- https://docs.astro.build/en/tutorials/add-content-collections/
+- https://docs.astro.build/en/tutorials/add-view-transitions/
+- https://unocss.dev/integrations/astro
+- https://unocss.dev/presets/
